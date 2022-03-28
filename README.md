@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Damião França</h1>
 <h3 align="center">A I'm frontend developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=damiaofranca&label=Profile%20views&color=0e75b6&style=flat" alt="damiaofranca" /> </p>
-
 - 🔭 I’m currently working on [Data wiki of games](https://github.com/damiaofranca/dataBook)
 
 - 🌱 I’m currently learning **Angular, React-native and ReactJS**
