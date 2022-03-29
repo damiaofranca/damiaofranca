@@ -1,4 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm Damião França</h1>
+<img align="right" src="https://user-images.githubusercontent.com/77007541/160634642-2b13f21e-c9cd-4e5d-94ea-b40e441ec49a.png" alt="git" width="120" height="120"/>
 <h3 align="center">A I'm frontend developer from Brazil</h3>
 
 - 🔭 I’m currently working on [Data wiki of games](https://github.com/damiaofranca/dataBook)
