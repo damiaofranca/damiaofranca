@@ -5,7 +5,7 @@
 
 - 🔭 majoring in computer scientist
 
-- 🔭 I’m currently working on [Data wiki of games](https://github.com/damiaofranca/dataBook)
+<!-- - 🔭 I’m currently working on  -->
 
 - 🌱 I’m currently learning **Angular, React-native and ReactJS**
 
